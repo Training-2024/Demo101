@@ -23,10 +23,12 @@ Added all caps sentences for emphasis, don't panic, it's simple and easy ;)
   The next question of yours might be, <b>What are we going to learn in this program?</b>
   In this whole Training 2024 program, You'll be introduced to:
 </p>
+<li>
   - Notion
   - Git and GitHub
   - Python
   - Open CV
+</li>
 <br />
 
 <p>
