@@ -11,3 +11,9 @@ And the legacy has been passed to our batch to train you guys for the future eve
 <p align="left">
 Let me explain how the process goes, So the 2024 batch will be seggregated in to batches and will be assigned some of your seniors (Like recruitment process). But here you guys should practice <b>SELF-LEARNING</b>. By seeing the word self-learning you might thing of something big. Yes, this is how it'll be in E-Yantra Robotics Competition (EYRC). 
 </p>
+<br />
+<p align="left">
+We will be using this platform (GITHUB) for sharing the resources and many more, so....WHAT IS THIS? HOW TO GET STARTED?
+Added all caps sentances for emphasis, don't panic, it's simple and easy ;)
+</p>
+<br />
