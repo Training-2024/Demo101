@@ -14,6 +14,6 @@ Let me explain how the process goes, So the 2024 batch will be seggregated in to
 <br />
 <p align="left">
 We will be using this platform (GITHUB) for sharing the resources and many more, so....WHAT IS THIS? HOW TO GET STARTED?
-Added all caps sentances for emphasis, don't panic, it's simple and easy ;)
+Added all caps sentences for emphasis, don't panic, it's simple and easy ;)
 </p>
 <br />
