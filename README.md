@@ -21,14 +21,14 @@ Added all caps sentences for emphasis, don't panic, it's simple and easy ;)
 
 <p align="left">
   The next question of yours might be, <b>What are we going to learn in this program?</b>
-  In this whole Training 2024 program, You'll be introduced to:
+  In this whole Training 2024 program, You'll be introduced to these topics:
 </p>
-<li>
-  - Notion
-  - Git and GitHub
-  - Python
-  - Open CV
-</li>
+<br />
+
+<li> Notion</li>
+<li>Git and GitHub</li>
+<li>Python</li>
+<li>Open CV</li>
 <br />
 
 <p>
