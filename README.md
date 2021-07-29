@@ -11,3 +11,13 @@ And the legacy has been passed to our batch to train you guys for the future eve
 <p align="left">
 Let me explain how the process goes, So the 2024 batch will be seggregated in to batches and will be assigned some of your seniors (Like recruitment process). But here you guys should practice <b>SELF-LEARNING</b>. By seeing the word self-learning you might thing of something big. Yes, this is how it'll be in E-Yantra Robotics Competition (EYRC). 
 </p>
+<br />
+<p align="left">
+We will be using this platform (GITHUB) for sharing the resources and many more, so....WHAT IS THIS? HOW TO GET STARTED?
+Added all caps sentences for emphasis, don't panic, it's simple and easy ;)
+</p>
+<br />
+</p>
+This is just for us! ill remove this later.... see if the content is okay or should add something: :order of content - git version control, What is github - how to install git on the system - important terms: repository, branch, commit. extra - pull requests and merging(just the basic, nothing about merge conflicts.) -local and remote repositories - cloning. - what exactly do they have to do (like, clone the task repo, complete the task, and upload them in the repo)
+(DOUBT: They are uploading their solutions as new files in the repo, right? not creating pull request and stuff.... right?So, in that particular task repo, we have the tak, and solutions of all first years... correct?)
+</p>
