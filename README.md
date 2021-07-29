@@ -30,10 +30,3 @@ Added all caps sentences for emphasis, don't panic, it's simple and easy ;)
 <li>Open CV</li>
 <br />
 
-<p>
-This is just for us! ill remove this later.... see if the content is okay or should add something: :order of content - git version control, What is github - how to install git on the system - important terms: repository, branch, commit. extra - pull requests and merging(just the basic, nothing about merge conflicts.) -local and remote repositories - cloning. - what exactly do they have to do (like, clone the task repo, complete the task, and upload them in the repo)
-(DOUBT: They are uploading their solutions as new files in the repo, right? not creating pull request and stuff.... right?So, in that particular task repo, we have the tak, and solutions of all first years... correct?)
-</p>
-
-
-Yes Karthik they will just push new files to repo..
