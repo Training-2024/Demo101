@@ -2,6 +2,10 @@
 
 <h1 align="center">Hello Juniors👋 </h1>
 
+
+https://user-images.githubusercontent.com/62557178/127637832-8a99ac5a-d402-4a13-855c-9297b07a7126.mp4
+
+
 <p align="left">You guys might be wondering <b> What is this and what are we going to do here?</b>
 
 Well, after recruiting you guys into <b>the Robotics Club</b>, we faced many delays in conducting this part that we've been following as a tradition. So it's the time!! 
