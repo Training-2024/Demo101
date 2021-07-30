@@ -29,7 +29,7 @@ Added all caps sentences for emphasis 😜😜, don't panic, it's simple and eas
 </p>
 
 <li><a href="https://github.com/Training-2024/Learn-0.1">Git and GitHub [Learn 0.1]</a></li>
-<li>Python </li>
+<li><a href="https://github.com/Training-2024/Learn-0.2">Python [Learn 0.2]</a></li>
 <li>Open CV</li>
 <li> Notion</li>
 <br />
