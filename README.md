@@ -28,8 +28,8 @@ Added all caps sentences for emphasis, don't panic, it's simple and easy ;)
   In this whole Training 2024 program, You'll be introduced to these topics:
 </p>
 
-<li> Notion</li>
 <li><a href="https://github.com/Training-2024/Learn-0.1">Git and GitHub</a></li>
+<li> Notion</li>
 <li>Python </li>
 <li>Open CV</li>
 <br />
