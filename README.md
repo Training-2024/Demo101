@@ -3,7 +3,7 @@
 <h1 align="center">Hello Juniors👋 </h1>
 
 
-https://user-images.githubusercontent.com/62557178/127637832-8a99ac5a-d402-4a13-855c-9297b07a7126.mp4
+[RCS Intro Mr.Lunatic](https://user-images.githubusercontent.com/62557178/127637832-8a99ac5a-d402-4a13-855c-9297b07a7126.mp4)
 
 
 <p align="left">You guys might be wondering <b> What is this and what are we going to do here?</b>
