@@ -29,8 +29,9 @@ Added all caps sentences for emphasis, don't panic, it's simple and easy ;)
 </p>
 
 <li> Notion</li>
-<li>Git and GitHub</li>
-<li>Python</li>
+<li><a href="https://github.com/Training-2024/Learn-0.1">Git and GitHub</a></li>
+<li>Python </li>
 <li>Open CV</li>
 <br />
+
 
