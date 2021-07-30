@@ -34,4 +34,6 @@ Added all caps sentences for emphasis, don't panic, it's simple and easy ;)
 <li>Open CV</li>
 <br />
 
-
+<p align="left">
+  You'll be finding the above topics with the module names. Learn all the modules to boost up your skills.
+</p>
