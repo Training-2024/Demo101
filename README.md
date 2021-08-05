@@ -32,7 +32,7 @@ Added all caps sentences for emphasis 😜😜, don't panic, it's simple and eas
 <li><a href="https://github.com/Training-2024/Learn-0.2" target="_blank">Python [Learn 0.2]</a></li>
 <li><a href="https://github.com/Training-2024/Learn-0.3" target="_blank">Open CV [Learn 0.3]</li>
 <li><a href="https://github.com/Training-2024/Learn-0.4" target="_blank">Video Processing [Learn 0.4]</li>
-<li> Notion</li>
+<li>Notion</li>
 <br />
 
 <p align="left">
